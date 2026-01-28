@@ -1,0 +1,14 @@
+get pokemon 0
+get pokemon 722
+get trainer -23
+get trainer
+get trainer 2478
+post trainer
+post trainer qwertyqwertyqwerty 1 2 3
+post trainer test 1 2 3 4 5 6 7
+put trainer
+put trainer 2478 1 1 1
+delete trainer
+delete trainer 234
+get log asdf
+exit
