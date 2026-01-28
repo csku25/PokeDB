@@ -1,0 +1,15 @@
+get pokemon 1
+post trainer AshKetchum 1 2 3 4 5 6
+post trainer MandyLoL 98 76 54 32 10
+post trainer randomguy 1 1 1
+get trainer
+get trainer 2
+get pokemon 721
+put trainer 1 721 721 721
+get trainer 1
+delete trainer 2
+get trainer
+delete trainer 1
+delete trainer 3
+get log 3
+exit
